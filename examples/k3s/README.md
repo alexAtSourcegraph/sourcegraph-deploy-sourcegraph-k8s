@@ -26,3 +26,4 @@ kubectl kustomize https://github.com/sourcegraph/deploy-sourcegraph-k8s/examples
 ```
 
 The manifests will be grouped and exported to the cluster.yaml file in the directory where you run the command from.
+testing to see if this works for a branch name that previously existed
